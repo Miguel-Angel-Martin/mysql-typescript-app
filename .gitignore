@@ -1,0 +1,21 @@
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+dist
+
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional npm cache directory
+.npm
+
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Visual code settings
+.vscode
