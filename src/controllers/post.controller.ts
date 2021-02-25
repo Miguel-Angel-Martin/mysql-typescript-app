@@ -1,7 +1,7 @@
 import { Request, Response } from "express";
 import { connect } from "../database";
 
-import { Post } from '../interface/Post'
+import { Post } from '../models/Post'
 
 export async function getPosts(req: Request, res: Response): Promise<Response | void> {
     try {

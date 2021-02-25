@@ -36,7 +36,12 @@ ___
 
 ___
 
+#JSON webtoken.
 
+[video](https://www.youtube.com/watch?v=qVUr4YC6ZXA&list=WL&index=5&t=2642s)
+[Code](https://github.com/FaztWeb/typescript-jwt-restapi)
+
+min 57
 #My repository
 
 https://github.com/Miguel-Angel-Martin/typescript-mysql-rest.git
